@@ -2,8 +2,7 @@
 
 **Cybersecurity Student | Top 1% on TryHackMe | OSINT & Web Security Enthusiast | Secure App Developer**
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-santhoshagain-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/santhoshagain)
-![GitHub Badge](https://img.shields.io/badge/GitHub-santhoshagain-black?logo=github&style=flat-square)](https://github.com/santhoshagain)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-santhoshagain-blue?logo=linkedin&style=flat-square) (https://www.linkedin.com/in/santhoshagain)
 
 ---
 
