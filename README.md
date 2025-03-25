@@ -1,21 +1,63 @@
+# 👨‍💻 Santhosh Kumar Chintada
 
+**Cybersecurity Student | Top 1% on TryHackMe | OSINT & Web Security Enthusiast | Secure App Developer**
 
-  <h1>Hi there! 👋</h1>
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-santhoshagain-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/santhoshagain)
+![GitHub Badge](https://img.shields.io/badge/GitHub-santhoshagain-black?logo=github&style=flat-square)](https://github.com/santhoshagain)
 
-  <p>My name is Santhosh Kumar and I'm a cyber security student who is passionate about programming and blogging. I'm currently studying Cyber Security and learning everything there is to know about keeping data and information safe in the digital world.</p>
+---
 
-  <h2>What I'm interested in</h2>
+## 🔐 About Me
 
-  <p>I have a natural curiosity for technology and I love staying up-to-date with the latest trends and advancements in the field of cyber security. That's why I regularly share my thoughts and insights on my personal blog.</p>
+I'm a passionate cybersecurity student with a strong foundation in **web application security**, **network exploitation**, **OSINT automation**, and **digital forensics**. I believe in learning by doing — from building secure systems to breaking vulnerable ones ethically.
 
-  <h2>My skills</h2>
+- 🎯 Top 1% on TryHackMe with 150+ rooms completed and a 200+ day streak  
+- 🛡️ Built tools and platforms to mitigate **OWASP Top 10** risks  
+- 🧠 Exploring **SOC operations, threat detection, and incident response**  
+- 🧰 Skilled in hands-on tools like **Burp Suite, Nmap, Wireshark, Splunk, Autopsy, Docker**
 
-  <p>My programming skills have been honed through various projects and internships, and I'm proficient in languages like Python, Java, and C++. I enjoy solving complex problems and working with like-minded individuals to achieve a common goal.</p>
+---
 
-  <h2>My goals</h2>
+## 🚀 Projects
 
-  <p>I'm excited about the endless possibilities that the field of cyber security presents, and I'm determined to make a meaningful contribution to the industry in the future.</p>
+### 🔹 [Secure LMS Web Application (2025)]()
+A full-stack LMS built using React and Node.js with security-first architecture.  
+✅ Protected against OWASP Top 10 using Helmet.js, JWT auth, rate limiting, session hardening, and anti-screen capture libraries.
 
-  <h2>Connect with me</h2>
+### 🔹 [OSINT Tool – insoKL24 (2024)]()
+Python-based automated OSINT tool using Shodan, VirusTotal, HIBP, and more.  
+✅ Enhanced cyber investigation speed by 65% for IPs, domains, leaks, and metadata.
 
-  <p>If you want to stay updated on my journey or connect with me, feel free to follow me on <a href="https://www.linkedin.com/in/santhoshagain/">LinkedIn</a>, <a href="https://www.instagram.com/santhoshagain/">Instagram</a>.</p>
+### 🔹 [Cryptology Communication System (2022)]()
+Secure chat platform using AES encryption + image steganography.  
+✅ Enabled undetectable and encrypted message sharing via images.
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **Winner – Special Jury Award** @ Innothon 24  
+- 🧠 **Training & Development Head**, KL Cybersecurity Club  
+- 🔥 **Mentored 300+ students** in secure coding, OWASP, CTFs & more  
+- 🌐 **Top 1% TryHackMe**: Specialized in Web Exploitation, Linux Privesc, and Network Security
+
+---
+
+## 📜 Certifications
+
+- ✅ Juniper Networks Certified Associate (JNCIA-Junos) – *Jan 2025*  
+- ✅ Google Cybersecurity Professional – *Jul 2023*  
+- ✅ NSDC PMKVY 4.0: Software Programmer – *2024*  
+- 🔄 Certified Ethical Hacker (CEH) – *Ongoing*
+
+---
+
+## 📫 Contact
+
+📍 Vijayawada, Andhra Pradesh, India  
+📧 [2200039028cser@gmail.com](mailto:2200039028cser@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/santhoshagain) | [GitHub](https://github.com/santhoshagain)
+
+---
+
+> “Securing the digital world, one challenge at a time.”
