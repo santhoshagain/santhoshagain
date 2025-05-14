@@ -1,0 +1,61 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                "icon": {
+                    "img": "images/pictures/place-4.png",
+                    "fa": "",
+                    "faColors": { "bg": null, "fill": null }
+                },
+                "dates": {
+                    "start": "02/01/2024",
+                    "end": "now"
+                },
+                "locales": {
+                    "en": {
+                    "title": "**Cybersecurity Mentor**",
+                    "info": "KL University Cybersecurity Club",
+                    "text": "<p>Mentored over 300 students through workshops and hands-on labs covering:</p><ul><li>Secure coding, OWASP Top 10, API protection</li><li>Cloud fundamentals: IAM, S3 access, and cloud monitoring</li><li>Networking: IP addressing, VLANs, and routing using Packet Tracer</li><li>Secure backend flows and version control in full-stack projects</li></ul><p>Organized 15+ interactive sessions including live CTFs and attack-defense simulations, boosting engagement by 80% and improving peer code quality by 30%.</p>",
+                    "tags": ["Cybersecurity", "OWASP Top 10", "Cloud", "API Security", "CTF", "Networking", "Git"]
+                    }
+                }
+                },
+                {
+                "icon": {
+                    "img": null,
+                    "fa": "fa-solid fa-bug",
+                    "faColors": { "bg": "#1f2937", "fill": "#f43f5e" }
+                },
+                "dates": {
+                    "start": "01/01/2024",
+                    "end": "now"
+                },
+                "locales": {
+                    "en": {
+                    "title": "**Bug Bounty Hunter**",
+                    "info": "Freelance / HackerOne & Bugcrowd",
+                    "text": "<p>Actively hunting real-world web vulnerabilities and reporting them responsibly across platforms like HackerOne and Bugcrowd. Specialized in:</p><ul><li>OWASP Top 10 exploitation</li><li>Advanced recon, bypass techniques, and logic flaws</li><li>API abuse and misconfiguration detection</li></ul><p>Continuously sharpening offensive security skills through hands-on challenges and platform reports.</p>",
+                    "tags": ["Bug Bounty", "Web Exploitation", "OWASP Top 10", "API Abuse", "Recon", "Responsible Disclosure"]
+                    }
+                }
+                }
+
+
+            ]
+        }
+    ]
+}

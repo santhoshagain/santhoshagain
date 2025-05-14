@@ -1,0 +1,123 @@
+{
+  "locales": {
+    "en": {
+      "title": "Contact",
+      "title_long_prefix": "Get in touch with",
+      "title_long": "Me"
+    }
+  },
+  "articles": [
+    {
+      "id": "contact_list",
+      "component": "ArticleGrid",
+      "config": {
+        "format": "grid"
+      },
+      "locales": {
+        "en": { "title": "How to Reach Me" }
+      },
+      "items": [
+        {
+          "value": "+91 93922 17578",
+          "links": [
+            { "href": "tel:+919392217578" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-phone",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "Phone",
+              "info": "Available on call and WhatsApp"
+            }
+          }
+        },
+        {
+          "value": "2200039028cser@gmail.com",
+          "links": [
+            { "href": "mailto:2200039028cser@gmail.com" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-envelope-open-text",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "Email",
+              "info": "For professional and academic queries"
+            }
+          }
+        },
+        {
+          "value": "linkedin.com/in/santhoshagain",
+          "links": [
+            { "href": "https://www.linkedin.com/in/santhoshagain" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-linkedin",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "LinkedIn",
+              "info": "Connect with me professionally"
+            }
+          }
+        },
+        {
+          "value": "github.com/santhoshagain",
+          "links": [
+            { "href": "https://github.com/santhoshagain" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-github",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "GitHub",
+              "info": "Explore my code and projects"
+            }
+          }
+        },
+        {
+          "value": "instagram.com/santhoshagain",
+          "links": [
+            { "href": "https://www.instagram.com/santhoshagain/" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-instagram",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "Instagram",
+              "info": "Follow for updates & content"
+            }
+          }
+        },
+        {
+          "value": "santhoshagain",
+          "links": [],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-discord",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "Discord (DMs open)",
+              "info": "Username: santhoshagain (DMs open)"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

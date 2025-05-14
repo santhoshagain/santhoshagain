@@ -1,0 +1,289 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Santhosh Kumar Chintada!**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {}
+            },
+
+            "items": [
+                {
+                    "value": "Vijayawada – IN",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "2200039028cser@gmail.com",
+                    "links": [
+                        {"href": "mailto:2200039028cser@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@santhoshagain",
+                    "links": [
+                        {"href": "https://github.com/santhoshagain"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+{
+  "id": "about_me",
+  "component": "ArticleInfoBlock",
+  "config": {},
+  "locales": {
+    "en": { "title": "**A little bit** about me..." }
+  },
+  "items": [
+    {
+      "icon": { "img": "images/svg/logo.svg" },
+      "locales": {
+        "en": {
+          "text": "<p>I’m a <b>cybersecurity enthusiast</b> and <b>cloud-native developer</b> with a strong foundation in:</p><ul><li>🔐 Secure Web Development (React, Node.js, Spring Boot)</li><li>☁️ Multi-cloud Infrastructure (AWS, Azure, GCP)</li><li>🛡️ API Security, IAM, and Zero Trust Design</li></ul><p>I'm also passionate about mentoring, community, and continuous learning.</p><p>Let’s build something meaningful — <b>together!</b></p>"
+        }
+      }
+    }
+  ]
+},
+
+{
+  "id": "snapshot",
+  "component": "ArticleServices",
+  "config": {},
+  "locales": {
+    "en": { "title": "Snapshot" }
+  },
+  "items": [
+    {
+      "icon": { "fa": "fa-solid fa-award" },
+      "locales": {
+        "en": {
+          "title": "Special Jury Award",
+          "info": "Won at Innothon 2024 for an OSINT Cyber Tool"
+        }
+      }
+    },
+    {
+      "icon": { "fa": "fa-solid fa-user-graduate" },
+      "locales": {
+        "en": {
+          "title": "Head of Training",
+          "info": "Led security workshops at KL Cybersecurity Club"
+        }
+      }
+    },
+    {
+      "icon": { "fa": "fa-solid fa-certificate" },
+      "locales": {
+        "en": {
+          "title": "JNCIA-Junos",
+          "info": "Juniper Certified Associate (Valid through 2028)"
+        }
+      }
+    },
+    {
+      "icon": { "fa": "fa-solid fa-ranking-star" },
+      "locales": {
+        "en": {
+          "title": "Top 1% on TryHackMe",
+          "info": "260+ day streak and 150+ hands-on security labs"
+        }
+      }
+    }
+  ]
+},
+
+{
+  "id": "resumes",
+  "component": "ArticleGrid",
+  "config": {
+    "format": "grid"
+  },
+  "locales": {
+    "en": { "title": "Resumes" }
+  },
+  "items": [
+    {
+      "value": "View",
+      "links": [
+        { "href": "https://drive.google.com/file/d/1sLHgrL9GDqXOoeBUUbbVkEEZlU0JobBl/view?usp=sharing" }
+      ],
+      "icon": {
+        "fa": "fa-solid fa-shield-halved",
+        "img": null,
+        "faColors": { "bg": null, "fill": null }
+      },
+      "locales": {
+        "en": {
+          "title": "Cyber Security Engineer",
+          "info": "VAPT, CTFs, IAM, CloudSec & Threat Hunting"
+        }
+      }
+    },
+    {
+      "value": "View",
+      "links": [
+        { "href": "https://drive.google.com/file/d/1FW3xUFiqNuQq1IOFN2Ij00BCtco4wXNo/view?usp=sharing" }
+      ],
+      "icon": {
+        "fa": "fa-solid fa-network-wired",
+        "img": null,
+        "faColors": { "bg": null, "fill": null }
+      },
+      "locales": {
+        "en": {
+          "title": "Network Engineer",
+          "info": "Cisco labs, firewall, subnetting, and routing"
+        }
+      }
+    },
+    {
+      "value": "View",
+      "links": [
+        { "href": "https://drive.google.com/file/d/1hTxmv-1YxJs_MofTvn2bdLi0d_k_B-Gk/view?usp=sharing" }
+      ],
+      "icon": {
+        "fa": "fa-solid fa-cloud",
+        "img": null,
+        "faColors": { "bg": null, "fill": null }
+      },
+      "locales": {
+        "en": {
+          "title": "Cloud Security",
+          "info": "AWS, Azure, GCP, IAM, Terraform & Monitoring"
+        }
+      }
+    },
+    {
+      "value": "View",
+      "links": [
+        { "href": "https://drive.google.com/file/d/1FQVnofzGT8hHX4m8e-Z2ekSdT9JAtQ8U/view?usp=sharing" }
+      ],
+      "icon": {
+        "fa": "fa-solid fa-code",
+        "img": null,
+        "faColors": { "bg": null, "fill": null }
+      },
+      "locales": {
+        "en": {
+          "title": "Full Stack Developer",
+          "info": "React, Node, Spring Boot, MySQL & REST APIs"
+        }
+      }
+    },
+    {
+      "value": "View",
+      "links": [
+        { "href": "https://drive.google.com/file/d/1nT2NU4yj85X0X0JRWQnroVn2BnMLyFZE/view?usp=sharing" }
+      ],
+      "icon": {
+        "fa": "fa-solid fa-laptop-code",
+        "img": null,
+        "faColors": { "bg": null, "fill": null }
+      },
+      "locales": {
+        "en": {
+          "title": "Software Engineer",
+          "info": "Python, DSA, SDLC, Git, Agile & Problem Solving"
+        }
+      }
+    }
+  ]
+},
+
+{
+  "id": "interests",
+  "component": "ArticleGrid",
+  "config": { "format": "grid" },
+  "locales": {
+    "en": { "title": "Personal & Professional **Interests**" }
+  },
+  "items": [
+    {
+      "icon": { "fa": "fa-solid fa-globe" },
+      "locales": {
+        "en": {
+          "title": "Web & Cybersecurity",
+          "info": "Secure development and ethical hacking"
+        }
+      }
+    },
+    {
+      "icon": { "fa": "fa-solid fa-code-branch" },
+      "locales": {
+        "en": {
+          "title": "Content Creation",
+          "info": "Videos and tech content for social platforms"
+        }
+      }
+    },
+    {
+      "icon": { "fa": "fa-solid fa-brain" },
+      "locales": {
+        "en": {
+          "title": "Self-development",
+          "info": "Journaling, mindset, growth and health"
+        }
+      }
+    },
+    {
+      "icon": { "fa": "fa-solid fa-chart-line" },
+      "locales": {
+        "en": {
+          "title": "Investing",
+          "info": "Mutual funds, SIPs, and long-term strategy"
+        }
+      }
+    },
+    {
+      "icon": { "fa": "fa-solid fa-gamepad" },
+      "locales": {
+        "en": {
+          "title": "Gaming",
+          "info": "Relaxation via FPS, RPGs, and simulations"
+        }
+      }
+    },
+    {
+      "icon": { "fa": "fa-solid fa-photo-film" },
+      "locales": {
+        "en": {
+          "title": "Media Editing",
+          "info": "Photo and video creation with tech focus"
+        }
+      }
+    }
+  ]
+}
+]
+}
