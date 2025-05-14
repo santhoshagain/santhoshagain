@@ -19,11 +19,11 @@ I'm a passionate cybersecurity student with a strong foundation in **web applica
 
 ## 🚀 Projects
 
-### 🔹 [Secure LMS Web Application (2025)]()
+### 🔹 [Secure LMS Web Application (2025)](https://github.com/santhoshagain/LMS)
 A full-stack LMS built using React and Node.js with security-first architecture.  
 ✅ Protected against OWASP Top 10 using Helmet.js, JWT auth, rate limiting, session hardening, and anti-screen capture libraries.
 
-### 🔹 [OSINT Tool – insoKL24 (2024)]()
+### 🔹 [OSINT Tool – insoKL24 (2024)](https://github.com/santhoshagain/Inoskl24)
 Python-based automated OSINT tool using Shodan, VirusTotal, HIBP, and more.  
 ✅ Enhanced cyber investigation speed by 65% for IPs, domains, leaks, and metadata.
 
