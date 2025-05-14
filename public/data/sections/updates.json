@@ -1,0 +1,208 @@
+{
+  "locales": {
+    "en": {
+      "title": "Life recently",
+      "title_menu": "Updates",
+      "title_long_prefix": "Take a look at my",
+      "title_long": "Recent **Updates**"
+    }
+  },
+ "articles": [
+{
+"id": "fun_facts",
+"component": "ArticleServices",
+"config": {},
+"locales": {},
+"items": [
+{
+"icon": {
+"img": null,
+"fa": "fa-solid fa-award",
+"faColors": null
+},
+"locales": {
+"en": {
+"title": "Jury Award",
+"info": "Won Special Jury Prize at Innothon'24"
+}
+}
+},
+{
+"icon": {
+"img": null,
+"fa": "fa-solid fa-people-group",
+"faColors": null
+},
+"locales": {
+"en": {
+"title": "Training Head",
+"info": "Led 15+ workshops & mentored 300+ students"
+}
+}
+},
+{
+"icon": {
+"img": null,
+"fa": "fa-solid fa-network-wired",
+"faColors": null
+},
+"locales": {
+"en": {
+"title": "JNCIA-Junos",
+"info": "Certified by Juniper Networks (2025–2028)"
+}
+}
+},
+{
+"icon": {
+"img": null,
+"fa": "fa-solid fa-ranking-star",
+"faColors": null
+},
+"locales": {
+"en": {
+"title": "Top 1%",
+"info": "Global rank on TryHackMe (150+ labs)"
+}
+          }
+        }
+      ]
+    },
+   {
+"id": "updates",
+"component": "ArticleThread",
+"config": {},
+"locales": {
+"en": { "title": "Quick Facts" }
+},
+"items": [
+{
+"dates": { "start": "2022-10-01", "end": "2022-11-30" },
+"locales": {
+"en": {
+"title": "Built my first **cybersecurity project**",
+"text": "Developed 'Cryptology Communication' using Python, AES encryption, and steganography."
+}
+}
+},
+{
+"dates": { "start": "2023-07-01", "end": null },
+"locales": {
+"en": {
+"title": "Moved to **Vijayawada for college**",
+"text": "Started B.Tech in CSE (Cybersecurity) at KL University in July 2023."
+}
+}
+},
+{
+"dates": { "start": "2023-07-15", "end": null },
+"locales": {
+"en": {
+"title": "Completed **Google Cybersecurity Certificate**",
+"text": "Earned the Google Cybersecurity Professional Certificate from Coursera in July 2023."
+}
+}
+},
+{
+"dates": { "start": "2024-01-05", "end": null },
+"locales": {
+"en": {
+"title": "Joined KL **Cybersecurity Club**",
+"text": "Started contributing as an active member in university’s Cybersecurity & Ethical Hacking Club."
+}
+}
+},
+{
+"dates": { "start": "2024-07-01", "end": null },
+"locales": {
+"en": {
+"title": "Became **Mentor** at KL Cyber Club",
+"text": "Took up mentoring responsibilities and began designing technical sessions for peers."
+}
+}
+},
+{
+"dates": { "start": "2024-08-01", "end": null },
+"locales": {
+"en": {
+"title": "Certified **Python Software Programmer**",
+"text": "Completed NSDC PMKVY 4.0 Software Programmer (Python) certification under NCVET, Govt. of India."
+}
+}
+},
+{
+"dates": { "start": "2024-09-20", "end": "2024-09-21" },
+"locales": {
+"en": {
+"title": "Won **Special Jury Award** at **Innothon '24**",
+"text": "Our team KLCyberSAC won the Special Jury Award for an OSINT automation tool at KCG's national-level hackathon."
+}
+}
+},
+{
+"dates": { "start": "2024-09-26", "end": null },
+"locales": {
+"en": {
+"title": "Participated in **CTFs & Hackathons**",
+"text": "Took part in multiple CTFs and security competitions on platforms like CTFtime and picoCTF."
+}
+}
+},
+{
+"dates": { "start": "2024-11-01", "end": null },
+"locales": {
+"en": {
+"title": "Appointed **Head of Training & Development**",
+"text": "Led 15+ workshops and mentorship programs in KL Cyber Club for hands-on security training."
+}
+}
+},
+{
+"dates": { "start": "2025-01-01", "end": null },
+"locales": {
+"en": {
+"title": "Started Personal Project: **Secure Web LMS**",
+"text": "Began development on a secure Learning Management System using React, Node.js, and JWT."
+}
+}
+},
+{
+"dates": { "start": "2025-01-10", "end": null },
+"locales": {
+"en": {
+"title": "Earned **Juniper JNCIA-Junos** Certification",
+"text": "Achieved Juniper Networks Certified Associate, valid through Jan 2028."
+}
+}
+},
+{
+"dates": { "start": "2025-02-01", "end": null },
+"locales": {
+"en": {
+"title": "Ranked **Top 1% on TryHackMe**",
+"text": "Completed 150+ labs with a 260+ day streak on TryHackMe’s global cybersecurity platform."
+}
+}
+},
+{
+"dates": { "start": "2025-02-11", "end": null },
+"locales": {
+"en": {
+"title": "Started **Capstone Project**",
+"text": "Began developing a Zero Trust API Security model integrating AI and cloud analytics."
+}
+}
+},
+{
+"dates": { "start": "2025-05-13", "end": null },
+"locales": {
+"en": {
+"title": "Launched **Portfolio Website**",
+"text": "Released my personal developer website showcasing cybersecurity & web projects."
+}
+}
+}
+]
+}
+  ]
+}
