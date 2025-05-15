@@ -10,7 +10,7 @@
 
 I'm a passionate cybersecurity student with a strong foundation in **web application security**, **network exploitation**, **OSINT automation**, and **digital forensics**. I believe in learning by doing — from building secure systems to breaking vulnerable ones ethically.
 
-- 🎯 Top 1% on TryHackMe with 150+ rooms completed and a 200+ day streak  
+- 🎯 Top 1% on TryHackMe with 150+ rooms completed and a 260+ day streak  
 - 🛡️ Built tools and platforms to mitigate **OWASP Top 10** risks  
 - 🧠 Exploring **SOC operations, threat detection, and incident response**  
 - 🧰 Skilled in hands-on tools like **Burp Suite, Nmap, Wireshark, Splunk, Autopsy, Docker**
